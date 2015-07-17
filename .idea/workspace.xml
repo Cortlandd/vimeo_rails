@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8abe0ccf-b409-4be8-801b-c3e5e21b8485" name="Default" comment="Initial Commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/albums.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/albums.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/albums.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/albums.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/appearances.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/appearances.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/appearances.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/appearances.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/categories/channels.rb" afterPath="$PROJECT_DIR$/lib/vimeo/categories/channels.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/channels.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/channels.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/channels.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/channels.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/comments.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/comments.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/contentratings/content_ratings.rb" afterPath="$PROJECT_DIR$/lib/vimeo/contentratings/content_ratings.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/creativecommons/creative_commons.rb" afterPath="$PROJECT_DIR$/lib/vimeo/creativecommons/creative_commons.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/credits.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/credits.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/embeddomains.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/embeddomains.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/feed.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/feed.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/feed.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/feed.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/followers.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/followers.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/followers.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/followers.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/following.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/following.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/following.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/following.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/categories/groups.rb" afterPath="$PROJECT_DIR$/lib/vimeo/categories/groups.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/groups.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/groups.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/groups.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/groups.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/information.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/information.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/information.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/information.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/information.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/information.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/languages/languages.rb" afterPath="$PROJECT_DIR$/lib/vimeo/languages/languages.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/likes.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/likes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/likes.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/likes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/likes.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/likes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/ondemand.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/ondemand.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/pictures.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/pictures.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/pictures.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/pictures.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/pictures.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/pictures.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/portfolios.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/portfolios.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/portfolios.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/portfolios.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/presets.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/presets.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/presets.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/presets.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/presets.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/presets.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/relatedvideos.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/relatedvideos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/search.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/search.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/search.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/search.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/tags/tag.rb" afterPath="$PROJECT_DIR$/lib/vimeo/tags/tag.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/tags.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/tags.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/texttracks.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/texttracks.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/channels/users.rb" afterPath="$PROJECT_DIR$/lib/vimeo/channels/users.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/groups/users.rb" afterPath="$PROJECT_DIR$/lib/vimeo/groups/users.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/users.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/users.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/videos/videocategories.rb" afterPath="$PROJECT_DIR$/lib/vimeo/videos/videocategories.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/categories/videos.rb" afterPath="$PROJECT_DIR$/lib/vimeo/categories/videos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/channels/videos.rb" afterPath="$PROJECT_DIR$/lib/vimeo/channels/videos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/groups/videos.rb" afterPath="$PROJECT_DIR$/lib/vimeo/groups/videos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/videos.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/videos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/tags/videos.rb" afterPath="$PROJECT_DIR$/lib/vimeo/tags/videos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/users/videos.rb" afterPath="$PROJECT_DIR$/lib/vimeo/users/videos.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo.rb" afterPath="$PROJECT_DIR$/lib/vimeo.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/vimeo/me/watchlater.rb" afterPath="$PROJECT_DIR$/lib/vimeo/me/watchlater.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8abe0ccf-b409-4be8-801b-c3e5e21b8485" name="Default" comment="Initial Commit" />
     <ignored path="vimeo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -79,8 +22,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="base.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/base.rb">
+      <file leaf-file-name="channels.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/vimeo/categories/channels.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -89,91 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="presets.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/presets.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="relatedvideos.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/relatedvideos.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="replace_source_file.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/replace_source_file.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/search.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tags.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/tags.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vimeo.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vimeo.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/vimeo.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="texttracks.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/texttracks.rb">
+      <file leaf-file-name="configuration.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/vimeo/configuration.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/users.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="videocategories.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/videocategories.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.5111562">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -187,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/vimeo/channels/videos.rb" />
         <option value="$PROJECT_DIR$/lib/vimeo/contentratings/content_ratings.rb" />
         <option value="$PROJECT_DIR$/lib/vimeo/creativecommons/creative_commons.rb" />
         <option value="$PROJECT_DIR$/lib/vimeo/groups/users.rb" />
@@ -238,6 +110,7 @@
         <option value="$PROJECT_DIR$/lib/vimeo/videos/users.rb" />
         <option value="$PROJECT_DIR$/lib/vimeo/videos/videocategories.rb" />
         <option value="$PROJECT_DIR$/lib/vimeo.rb" />
+        <option value="$PROJECT_DIR$/lib/vimeo/configuration.rb" />
       </list>
     </option>
   </component>
@@ -293,6 +166,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -362,211 +236,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="videos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tags" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="me" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="languages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groups" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="creativecommons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contentratings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="channels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo_rails" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vimeo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="categories" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -578,6 +253,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -726,26 +402,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1406" y="-4" width="1401" height="905" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2609017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26533628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32948717" sideWeight="0.50554323" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.49741316" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32948717" sideWeight="0.49445677" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32948717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -764,27 +440,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/vimeo/creativecommons/creative_commons.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vimeo/groups/users.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/vimeo/groups/videos.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,7 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1116,17 +774,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/search.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/tags.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.47464502">
           <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding />
         </state>
@@ -1134,7 +784,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/texttracks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.2555781">
           <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding />
         </state>
@@ -1142,7 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.2555781">
           <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding />
         </state>
@@ -1150,7 +800,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/videocategories.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.2555781">
           <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding />
         </state>
@@ -1164,10 +814,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/vimeo.rb">
+    <entry file="file://$PROJECT_DIR$/lib/vimeo/videos/search.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2555781">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vimeo/categories/channels.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vimeo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vimeo/configuration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5111562">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
