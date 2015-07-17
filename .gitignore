@@ -7,4 +7,6 @@
 /pkg/
 /spec/reports/
 /tmp/
-.idea
+/.idea
+/CODE_OF_CONDUCT.md
+/vimeo_rails-0.1.0.gem
