@@ -5,7 +5,7 @@ module Vimeo
       # Get a list of the user's followers
 
       def self.info
-        get("/me/followers/?access_token=#{access_token}")
+        get("/me/followers?access_token=#{access_token}")
       end
     end
   end

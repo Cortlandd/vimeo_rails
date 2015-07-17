@@ -5,7 +5,7 @@ module Vimeo
       # Get all valid content ratings
 
       def self.info
-        get("/contentratings/?access_token=#{access_token}")
+        get("/contentratings?access_token=#{access_token}")
       end
     end
   end

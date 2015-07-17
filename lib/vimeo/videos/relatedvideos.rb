@@ -5,7 +5,7 @@ module Vimeo
       # Get related videos
 
       def self.find(video_id, access_token)
-        get("/videos/#{video_id}/videos/?access_token=#{access_token}")
+        get("/videos/#{video_id}/videos?access_token=#{access_token}")
       end
     end
   end

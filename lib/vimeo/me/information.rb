@@ -5,7 +5,7 @@ module Vimeo
       # Get a Users information
 
       def self.info
-        get("/me/?access_token=#{access_token}")
+        get("/me?access_token=#{access_token}")
       end
 
     end

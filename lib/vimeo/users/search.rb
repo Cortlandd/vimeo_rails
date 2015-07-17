@@ -5,7 +5,7 @@ module Vimeo
       # Search for users
 
       def self.find(access_token)
-        get("/users/?access_token=#{access_token}")
+        get("/users?access_token=#{access_token}")
       end
 
     end

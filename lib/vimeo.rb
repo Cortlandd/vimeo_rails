@@ -1,4 +1,3 @@
-require 'vimeo/version'
 require 'httparty'
 require 'net/http/post/multipart'
 
