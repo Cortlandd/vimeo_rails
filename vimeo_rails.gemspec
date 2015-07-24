@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = 'Wanted to use the Vimeo API, but couldn\'t
                         find an updated wrapper for rails. So I built one.'
   spec.description   = 'A Ruby on Rails wrapper for the Vimeo APIv3'
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/Cortlandd/vimeo_rails"
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
