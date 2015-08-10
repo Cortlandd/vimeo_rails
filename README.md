@@ -1,5 +1,10 @@
 ## UNDER CONSTRUCTION
 
+TODO-LIST
+- should: inside rails-app/config/vimeo.rb to setup access_token ()
+- should: have ?=access_token=ACCESS_TOKEN at the end up each endpoint request (I have no idea how to go about this. im a lone ranger)
+- should: use Vimeo::Channels.method() to call method and get json data (50%)
+
 # Vimeo
 
 Rails interface for Vimeo API v3
@@ -21,6 +26,8 @@ Or install it yourself as:
 ## Usage
 
 TODO: Write usage instructions here
+- should: inside rails-app/config/vimeo.rb to setup access_token
+- should: use Vimeo::Channels.method() to call method and get json data
 
 ## Development
 
@@ -30,7 +37,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/vimeo/fork )
+1. Fork it ( https://github.com/Cortlandd/vimeo_rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
