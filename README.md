@@ -1,9 +1,10 @@
 ## UNDER CONSTRUCTION
 
 TODO-LIST
-- should: inside rails-app/config/vimeo.rb to setup access_token ()
-- should: have ?=access_token=ACCESS_TOKEN at the end up each endpoint request (I have no idea how to go about this. im a lone ranger)
-- should: use Vimeo::Channels.method() to call method and get json data (50%)
+- should: be able to, inside rails-app/config/vimeo.rb, setup default access_token for requests
+- should: have /?=access_token=ACCESS_TOKEN at the end up each endpoint request
+(I have no idea how to go about this. working on it. I'm a lone ranger in this project)
+- should: use Vimeo::Channels.method() to call method and GET json data
 
 # Vimeo
 
