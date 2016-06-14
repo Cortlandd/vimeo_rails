@@ -2,7 +2,15 @@ require 'httparty'
 
 module Vimeo
   # Defines constants and methods related to configuration
-  module Configuration
+  class Configuration
+    attr_accessor :access_token, :client_secret, :client_id
+    
+    def initialize
+      @access_token = nil
+      @client_secret = nil
+      @client_id = nil
+    end
+
     # An array of valid keys in the options hash when configuring a Vimeo::API
     VALID_OPTIONS_KEYS = [
         :access_token,
@@ -39,23 +47,6 @@ module Vimeo
 
     # The response format appended to the path and sent in the 'Accept' header if none is set
     DEFAULT_FORMAT = :json
-
-
-
-    # Convenience method to allow configuration options to be set in a block
-    # config/initializers/vimeo.rb
-    def configure
-      yield self
-    end
-
-=begin
-      require "vimeo"
-
-      Vimeo.configure do |config|
-        config.access_token = "abcdefghijklmnop1234567890"
-      end
-=end
-
 
   end
 end
