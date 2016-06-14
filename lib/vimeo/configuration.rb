@@ -1,5 +1,11 @@
 require 'httparty'
 
+# Vimeo.configure do |config|
+#   config.access_token = ''
+#   config.client_secret = ''
+#   config.client_id = ''
+# end
+
 module Vimeo
   # Defines constants and methods related to configuration
   class Configuration
